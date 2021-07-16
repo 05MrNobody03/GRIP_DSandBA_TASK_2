@@ -1,12 +1,13 @@
 # GRIP_DSandBA_TASK_2
-##The Sparks Foundation-Draduate Rotational Internship Program
+
+## The Sparks Foundation-Graduate Rotational Internship Program
 1.Task: Prediction using unsupervised ML : Predict the optimum number of clusters and represent it visually.
 
 2.Libraries Used: numpy,matplotilb,pandas,seaborn,sclicit learn.
 
 3.Dataset Used: Iris dataset.@THE SPARKS FOUNDATION(GRIP)
 
-Submitted By:- Pallavi Pandurang Vedpathak
+### Submitted By:- Pratik Punjaram Thombre
 
 Links:
 
